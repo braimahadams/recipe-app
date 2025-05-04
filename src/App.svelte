@@ -78,7 +78,7 @@
 </main>
 
 <footer>
-  <p>© 2024 Nann Theint Kham Ko Ko. All rights reserved.</p>
+  <p>© 2025 Braimah Adams. All rights reserved.</p>
 </footer>
 
 
